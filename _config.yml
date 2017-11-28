@@ -1,11 +1,11 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:categories/:title
 
 # Setup
 title:          antikapital
 paginate:       5
 baseurl:        ""
-url:            "https://antikapital.github.io"
+url:            "https://antikapital.com"
 
 # Assets
 sass:

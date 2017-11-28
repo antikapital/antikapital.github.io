@@ -11,6 +11,16 @@ title: Home
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
+<span class="read-time" title="Estimated read time">
+
+  {% assign words = post.content | number_of_words %}
+  {% if words < 360 %}
+    <div class="catalogue-time">1 min read.</div>
+  {% else %}
+    <div class="catalogue-time">{{ words | divided_by:180 }} mins read.</div>
+  {% endif %}
+</span>
+
         <p>
           {{ post.content | truncatewords: 30 | strip_html }}
         </p>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Julio César Ibañez Rangel"
 permalink: /about/
 ---
 

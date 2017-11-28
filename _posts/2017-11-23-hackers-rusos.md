@@ -2,6 +2,7 @@
 layout: post
 title: "La fascinación por los hackers rusos"
 author: "Julio César Ibañez Rangel"
+categories: [A título personal]
 ---
 
 Aunque en muchos casos la realidad supera a la ficción, no es la regla. Si bien una historia que involucra conspiración, gobiernos y hackers resulta muy atractiva, y posible. No explica ni justifica hechos como la presidencia de _Donald Trump_ en los <abbr title="Estados Unidos de América">EE.UU.</abbr>.
